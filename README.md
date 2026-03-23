@@ -1,7 +1,7 @@
 https://oresenyo.github.io/DL/
 
 - index.html　左サイドバー
-･「カテゴリ」「サブカテゴリ」に件数表示
+･　「カテゴリ」「サブカテゴリ」に件数表示
 ･「∟」削除
 
 - mail.html　左サイドバー
